@@ -6,7 +6,7 @@ Sistema desktop desenvolvido em **C# Windows Forms** com banco de dados **MySQL*
 
 ## 📋 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte da disciplina de **Programação em C#** do Prof. Pablo R. Gonçalves, com o objetivo de aplicar conceitos de:
+Este projeto foi desenvolvido como parte da disciplina de **Programação Comercial** do Prof. Pablo R. Gonçalves, com o objetivo de aplicar conceitos de:
 
 - Conexão com banco de dados MySQL
 - Formulários Windows Forms com múltiplos componentes
